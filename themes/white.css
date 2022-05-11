@@ -1,0 +1,18 @@
+:root{
+    --background_color: #FFFFFF;
+    --board_1_background: #F2F7FA;
+    --board_2_background: #F2F7FA;
+
+    --number_buttons: #FAF2E7;
+    --number_buttons_font: rgb(82, 82, 82);
+
+    --ac_delete_buttons: #FFFAF0;
+    --ac_delete_buttons_font: rgb(82, 82, 82);
+
+    --blue_buttons: #FAEBD7;
+    --blue_buttons_font: rgb(82, 82, 82);
+
+
+    --light_blue_buttons: #fac37b9f;
+    --light_blue_buttons_font: white;  
+}

@@ -1,0 +1,18 @@
+:root{
+    --background_color: linear-gradient(191.34deg, #17181a -4.95%, #17181a 103.74%);
+    --board_1_background: rgb(214, 214, 214);
+    --board_2_background: rgb(214, 214, 214);
+
+    --number_buttons: #303136;
+    --number_buttons_font: #29a8ff;
+
+    --ac_delete_buttons: #616161;
+    --ac_delete_buttons_font: #a5a5a5;
+
+    --blue_buttons: #005db2;
+    --blue_buttons_font: #a5a5a5;
+
+
+    --light_blue_buttons: #1991ff;
+    --light_blue_buttons_font: #b2daff;  
+}
